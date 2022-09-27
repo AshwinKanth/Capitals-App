@@ -1,0 +1,41 @@
+.app-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-container {
+  background-color: #ffffff;
+  padding: 50px;
+}
+
+.heading {
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.options-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.capital {
+  font-size: 15px;
+  font-family: 'Roboto';
+  padding: 5px;
+  width: 150px;
+}
+.question {
+  font-size: 15px;
+  font-family: 'Roboto';
+  padding-left: 10px;
+}
+.country {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.option {
+  font-size: 15px;
+  font-family: 'Roboto';
+}
